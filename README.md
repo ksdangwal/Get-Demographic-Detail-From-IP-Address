@@ -2,7 +2,7 @@
 	
 	Get Demographic Detail From IP Address
 	
-	This is basic example to get information based on user IP address using PHP & JSON
+	This is basic example to get demograghic information based on user IP address using PHP & JSON
 	
 	Referece URL :- http://ip-api.com/
 	Referece Doc URL :- http://ip-api.com/docs/
